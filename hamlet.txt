@@ -6,4 +6,6 @@ Polonius: I'm behind a curtain.
 
 YORICK: I'm skull
 
+Hamlet: I love revenge!!!
+
 END
